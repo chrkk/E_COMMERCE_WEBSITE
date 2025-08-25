@@ -124,16 +124,20 @@ body{
 
 /*home page*/
 #hero{
+  #hero {
   background-image: url(img/hero5.png);
   height: 90vh;
   width: 100%;
-  background-size: cover;
-  background-position: center top;
+  background-size: 80%; 
+  background-repeat: no-repeat;
+  background-position: right 10% top; 
   padding: 0 80px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
+}
+
 }
 #hero h4{
   padding-bottom: 15px;
