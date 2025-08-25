@@ -4,11 +4,9 @@
   <meta charset="UTF-8">
   <meta http-equiv="refresh" content="0; URL='signup.html'" />
 <script>
-  // Check if user is already signed up or logged in
-  const isSignedUp = localStorage.getItem("signedUp"); // or "loggedIn", depending on your key
+    const isSignedUp = localStorage.getItem("signedUp");
 
-  if (!isSignedUp) {
-    // If not signed up, redirect to signup page
+  if (isSignedUp !== "true") {
     window.location.href = "signup.html";
   }
 </script>
@@ -426,4 +424,5 @@
 </a>
 
 </html>
+
 
