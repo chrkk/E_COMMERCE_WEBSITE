@@ -123,12 +123,12 @@ body{
 
 
 /*home page*/
-  #hero {
+#hero{
   background-image: url(img/hero5.png);
   height: 90vh;
   width: 100%;
   background-size: cover;
-  background-position: top 25% right 0%;
+  background-position:  top 25% right 0% ;
   padding: 0 80px;
   display: flex;
   flex-direction: column;
@@ -1606,6 +1606,7 @@ footer .copyright{
   }
 
 }
+
 
 
 
