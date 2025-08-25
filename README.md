@@ -22,6 +22,8 @@ The site was originally based on a tutorial video I followed (which I’ve since
 - This project was created purely for academic purposes.
 - It’s not optimized or production-ready, but it reflects my early learning.
 - I may revisit it in the future to rebuild it with proper backend support and cleaner code.
+- 📸 **Image Credits**: Some product photos used in this website are not owned by me. All rights belong to their respective owners. These images are used for educational and non-commercial purposes only.
+- 📱 **Mobile Support**: This website is **not optimized for mobile devices**. Layout and design may break or appear distorted on smaller screens.
 
 ## 🎓 Context
 - School: ACLC College of Mandaue
