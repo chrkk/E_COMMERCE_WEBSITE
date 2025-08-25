@@ -27,7 +27,7 @@ The site was originally based on a tutorial video I followed (which I’ve since
 - School: ACLC College of Mandaue
 - Strand: ICT – Programming
 - Final Semester Project with Panel Presentation
-- Year: Senior High School (exact year not specified)
+- Year: Senior High School 
 
 ---
 
