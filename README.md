@@ -1,7 +1,9 @@
 # SHS Final Project Website (ACLC College of Mandaue)
 
 This is a static website I created during my Senior High School days at ACLC College of Mandaue, under the ICT Programming Strand. It was our final project for the semester, presented to a panel as part of our course requirements.
+
 Site live @ https://chrkk.github.io/E_COMMERCE_WEBSITE/
+
 The site was originally based on a tutorial video I followed (which I’ve since forgotten), and while it’s not perfect, it represents my early hands-on experience with web development.
 
 ## 📁 What’s Inside
