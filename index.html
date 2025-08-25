@@ -2,10 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>
-  window.location.href = "signup.html";
+  <meta http-equiv="refresh" content="0; URL='signup.html'" />
+<script>
+  // Check if user is already signed up or logged in
+  const isSignedUp = localStorage.getItem("signedUp"); // or "loggedIn", depending on your key
+
+  if (!isSignedUp) {
+    // If not signed up, redirect to signup page
+    window.location.href = "signup.html";
+  }
 </script>
+
   <title>TechTrovePC</title>
   <link rel="stylesheet" href="css/all.min.css">
   <link rel="stylesheet" href="css/fontawesome.min.css">
@@ -419,3 +426,4 @@
 </a>
 
 </html>
+
