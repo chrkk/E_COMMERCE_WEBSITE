@@ -128,9 +128,9 @@ body{
   background-image: url(img/hero5.png);
   height: 90vh;
   width: 100%;
-  background-size: 80%; 
+  background-size: 500px auto;
   background-repeat: no-repeat;
-  background-position: right 10% top; 
+  background-position: right 5% top;
   padding: 0 80px;
   display: flex;
   flex-direction: column;
@@ -1608,3 +1608,4 @@ footer .copyright{
   }
 
 }
+
