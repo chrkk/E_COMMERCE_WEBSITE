@@ -108,7 +108,7 @@
       if ((username === storedUsername && password === storedPassword) || 
           (username === "admin" && password === "admin")) { 
 
-          localStorage.setItem("signedUp", "true");
+          localStorage.setItem("loggedIn", "true");
         
           if (username === "admin") {
             window.location.href = "admin.html"; 
@@ -127,3 +127,4 @@
 </a>
 
 </html>
+
