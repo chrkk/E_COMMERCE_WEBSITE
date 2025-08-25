@@ -142,7 +142,7 @@ body{
 }
 #hero h1{
   padding-bottom: 15px;
-  color: #326299;
+  color: #FFFFFF;
 }
 #hero button{
   background-image: url(img/Button.png);
@@ -1606,6 +1606,7 @@ footer .copyright{
   }
 
 }
+
 
 
 
