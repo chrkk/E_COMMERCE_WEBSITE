@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
 <script>
-    const isSignedUp = localStorage.getItem("signedUp");
+  const isLoggedIn = localStorage.getItem("loggedIn");
 
-  if (isSignedUp !== "true") {
-    window.location.href = "signup.html";
+  if (isLoggedIn !== "true") {
+    window.location.href = "login.html";
   }
 </script>
 
@@ -423,6 +423,7 @@
 </a>
 
 </html>
+
 
 
 
