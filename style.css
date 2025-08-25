@@ -128,7 +128,7 @@ body{
   height: 90vh;
   width: 100%;
   background-size: cover;
-  background-position:  top 25% right 0% ;
+  background-position: center top;
   padding: 0 80px;
   display: flex;
   flex-direction: column;
@@ -1602,4 +1602,5 @@ footer .copyright{
   .container {
     width: 90%;
   }
+
 }
