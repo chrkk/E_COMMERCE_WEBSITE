@@ -14,9 +14,26 @@ The site was originally based on a tutorial video I followed (which I’ve since
 - No backend or database integration
 
 ## 🔐 Login System
-- Users can "register" and "log in" using a form.
-- Credentials are stored locally in the browser using JavaScript and `localStorage`.
-- This was mainly for demonstration purposes—no real security or server-side logic.
+- Users must **sign up** to access the homepage.
+- The signup form stores credentials locally using JavaScript and `localStorage`.
+- ⚠️ **Do not use real personal information** — this is a demo site with no backend or encryption.
+- Once signed up, you can explore the full site including product pages and other sections.
+
+### 🧑‍💼 Admin Access
+You can log in via the login page using:
+- **Username**: `admin`
+- **Password**: `admin`
+
+This will redirect you to a dashboard page that displays:
+- Daily views
+- Sales
+- Comments
+- Earnings
+- Recent orders
+- Product listings
+- Customer info
+
+⚠️ All dashboard data is **UI-only** and **non-functional** — it's just for layout demonstration.
 
 ## 📝 Notes
 - This project was created purely for academic purposes.
