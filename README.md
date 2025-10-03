@@ -50,4 +50,3 @@ This will redirect you to a dashboard page that displays:
 
 ---
 
-Thanks for checking it out!
